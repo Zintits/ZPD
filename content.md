@@ -1,8 +1,9 @@
 # Izveidot number guessing ar Python programmēšanas valodu
 ## Saturs
-### Kaut
-### Kas
-### Interesants
+### 1. Spēles apraksts
+Interesanta spēle kas attīsta 
+
+### 2. Spēles gaita
 Dators nejauši ģenerē vienu skaitli no 1 līz 100 tālāk piedāvā spēlētājam uzminēt to skaitli.
 ```py
 import random
